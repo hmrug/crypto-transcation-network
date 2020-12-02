@@ -80,20 +80,24 @@ def bowtie_analysis(G):
 
 def files_walker(directory, json_output):
     files = os.listdir(directory)
+    files.sort()
     for file in files:
         with open(directory+'/'+file, 'r', encoding='utf8', errors='ignore') as f:
+            print("Analysing data from {}".format(file[:-8]))
             G = nx.read_graphml(f)
             bowtie_dict = bowtie_analysis(G)
+            
             with open(json_output, "r+") as fi:
                 data = json.load(fi)
                 new_entry = {file[:-8] : bowtie_dict}
                 data.update(new_entry)
                 fi.seek(0)
                 json.dump(data, fi, indent=4)
+                print("writing bow tie component from {} to {}".format(file[:-8],json_output))
+                print("#"*50)
     return True
 
 #################### Parser settings #########################################
-#python group_detection.py home/joel/dev/example_01.mp4 -o home/joel/dev/example_01
 parser = argparse.ArgumentParser(description='Detect groups in a video')
 
 parser.add_argument("directory", help='directory of the graph files')
