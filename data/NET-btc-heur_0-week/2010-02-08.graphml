@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="no_transactions" attr.type="double" for="edge" id="d4" />
+  <key attr.name="qty" attr.type="double" for="edge" id="d3" />
+  <key attr.name="no_transactions" attr.type="int" for="edge" id="d2" />
+  <key attr.name="is_miner" attr.type="boolean" for="node" id="d1" />
+  <key attr.name="is_sink" attr.type="boolean" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="21763">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24071">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23432">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23306">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="21260">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23822">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24216">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="21699">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24089">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="20120">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24217">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23962">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23836">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23709">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23838">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23840">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23847">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23983">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23988">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24222">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24119">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="19128">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23869">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23874">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23875">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23752">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23881">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="21646">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23888">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23889">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="22286">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23820">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23640">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24191">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24043">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24204">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24164">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23893">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23249">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23975">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24048">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="21234">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23798">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="24185">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="21115">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="21245">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23934">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <node id="23453">
+      <data key="d0">False</data>
+      <data key="d1">False</data>
+    </node>
+    <edge source="21763" target="21699">
+      <data key="d2">1</data>
+      <data key="d3">50.0</data>
+    </edge>
+    <edge source="24071" target="23249">
+      <data key="d4">2.0</data>
+      <data key="d3">250.0</data>
+    </edge>
+    <edge source="23306" target="23249">
+      <data key="d2">1</data>
+      <data key="d3">49.0</data>
+    </edge>
+    <edge source="21260" target="23934">
+      <data key="d2">1</data>
+      <data key="d3">10000.0</data>
+    </edge>
+    <edge source="23822" target="23888">
+      <data key="d2">1</data>
+      <data key="d3">49.0</data>
+    </edge>
+    <edge source="23822" target="23889">
+      <data key="d2">1</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="24216" target="24191">
+      <data key="d2">1</data>
+      <data key="d3">5733.17</data>
+    </edge>
+    <edge source="24089" target="23249">
+      <data key="d2">1</data>
+      <data key="d3">50.0</data>
+    </edge>
+    <edge source="20120" target="23432">
+      <data key="d2">1</data>
+      <data key="d3">3800.0</data>
+    </edge>
+    <edge source="24217" target="24216">
+      <data key="d2">1</data>
+      <data key="d3">5633.17</data>
+    </edge>
+    <edge source="23962" target="23432">
+      <data key="d2">1</data>
+      <data key="d3">2100.0</data>
+    </edge>
+    <edge source="23709" target="23249">
+      <data key="d2">1</data>
+      <data key="d3">2800.0</data>
+    </edge>
+    <edge source="23838" target="23836">
+      <data key="d2">1</data>
+      <data key="d3">1400.0</data>
+    </edge>
+    <edge source="23840" target="23432">
+      <data key="d2">1</data>
+      <data key="d3">1700.0</data>
+    </edge>
+    <edge source="23847" target="23798">
+      <data key="d2">1</data>
+      <data key="d3">50.0</data>
+    </edge>
+    <edge source="23988" target="23249">
+      <data key="d2">1</data>
+      <data key="d3">100.0</data>
+    </edge>
+    <edge source="24222" target="24216">
+      <data key="d2">1</data>
+      <data key="d3">25.0</data>
+    </edge>
+    <edge source="24119" target="24071">
+      <data key="d2">1</data>
+      <data key="d3">50.0</data>
+    </edge>
+    <edge source="19128" target="23983">
+      <data key="d2">1</data>
+      <data key="d3">19000.0</data>
+    </edge>
+    <edge source="23869" target="23752">
+      <data key="d4">2.0</data>
+      <data key="d3">702.0</data>
+    </edge>
+    <edge source="23874" target="23249">
+      <data key="d2">1</data>
+      <data key="d3">250.0</data>
+    </edge>
+    <edge source="23875" target="21260">
+      <data key="d2">1</data>
+      <data key="d3">50.0</data>
+    </edge>
+    <edge source="23752" target="23869">
+      <data key="d2">1</data>
+      <data key="d3">700.0</data>
+    </edge>
+    <edge source="23881" target="21115">
+      <data key="d2">1</data>
+      <data key="d3">50.0</data>
+    </edge>
+    <edge source="21646" target="24164">
+      <data key="d2">1</data>
+      <data key="d3">16.83</data>
+    </edge>
+    <edge source="21646" target="24191">
+      <data key="d2">1</data>
+      <data key="d3">5683.17</data>
+    </edge>
+    <edge source="23889" target="23640">
+      <data key="d2">1</data>
+      <data key="d3">1.0</data>
+    </edge>
+    <edge source="22286" target="23934">
+      <data key="d2">1</data>
+      <data key="d3">150.0</data>
+    </edge>
+    <edge source="23820" target="23798">
+      <data key="d2">1</data>
+      <data key="d3">650.0</data>
+    </edge>
+    <edge source="24191" target="24216">
+      <data key="d2">1</data>
+      <data key="d3">50.0</data>
+    </edge>
+    <edge source="24191" target="24217">
+      <data key="d2">1</data>
+      <data key="d3">5633.17</data>
+    </edge>
+    <edge source="24043" target="23249">
+      <data key="d2">1</data>
+      <data key="d3">450.0</data>
+    </edge>
+    <edge source="24204" target="24071">
+      <data key="d2">1</data>
+      <data key="d3">50.0</data>
+    </edge>
+    <edge source="23893" target="23432">
+      <data key="d2">1</data>
+      <data key="d3">1700.0</data>
+    </edge>
+    <edge source="23975" target="23453">
+      <data key="d2">1</data>
+      <data key="d3">100.0</data>
+    </edge>
+    <edge source="24048" target="23798">
+      <data key="d2">1</data>
+      <data key="d3">2000.0</data>
+    </edge>
+    <edge source="21234" target="23934">
+      <data key="d2">1</data>
+      <data key="d3">10000.0</data>
+    </edge>
+    <edge source="23798" target="24048">
+      <data key="d2">1</data>
+      <data key="d3">1900.0</data>
+    </edge>
+    <edge source="23798" target="21646">
+      <data key="d2">1</data>
+      <data key="d3">2000.0</data>
+    </edge>
+    <edge source="24185" target="24216">
+      <data key="d2">1</data>
+      <data key="d3">25.0</data>
+    </edge>
+    <edge source="24185" target="24222">
+      <data key="d2">1</data>
+      <data key="d3">25.0</data>
+    </edge>
+    <edge source="21245" target="23934">
+      <data key="d2">1</data>
+      <data key="d3">10000.0</data>
+    </edge>
+  </graph>
+</graphml>
