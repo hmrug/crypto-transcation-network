@@ -16,8 +16,11 @@ def bowtie_analysis(G):
     # reverse all direction of the graph
     GT = nx.reverse(G, copy=True)
     # calculate SSC
-    SSC = max(list(nx.strongly_connected_components(G)),key=len)    
-    
+    scc = list(nx.strongly_connected_components(G))
+    if len(scc)==0:
+        return{}
+        
+    SSC = max(scc,key=len)    
     
     # take any node n from SSC and do a depth first search 
     # through directed graph beginning from node n
@@ -119,12 +122,12 @@ def main(directory=None, output=None):
             db_file.write(json.dumps({}))
             
     files_walker(directory, json_output)
-    
+    print("BTC bow tie analysis finished")
     return True
 
 if __name__ == "__main__" :
     print("Start analysing BTC network")
     args = parser.parse_args()
     main(**vars(args))
-  
+    
 
