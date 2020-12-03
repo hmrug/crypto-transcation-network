@@ -12,6 +12,7 @@ import io
 import json
 import argparse
 import logging
+import glob
 
 ################### Logging settings #########################################
 
@@ -91,10 +92,10 @@ def bowtie_analysis(G):
 
 
 def files_walker(directory, json_output):
-    files = os.listdir(directory)
+    files = glob.glob(directory)
     files.sort()
     for file in files:
-        with open(directory+'/'+file, 'r', encoding='utf8', errors='ignore') as f:
+        with open(file, 'r', encoding='utf8', errors='ignore') as f:
             logging.info("Analysing data from {}".format(file[:-8]))
             G = nx.read_graphml(f)
             bowtie_dict = bowtie_analysis(G)
@@ -102,12 +103,12 @@ def files_walker(directory, json_output):
             try:
                 with open(json_output, "r+") as fi:
                     data = json.load(fi)
-                    new_entry = {file[:-8]: bowtie_dict}
+                    new_entry = {file[5:-8]: bowtie_dict}
                     data.update(new_entry)
                     fi.seek(0)
                     json.dump(data, fi, indent=4)
                     logging.info("writing bow tie component from {} to {}".format(
-                        file[:-8], json_output))
+                        file[5:-8], json_output))
                     logging.info("#" * 50)
             except OSError as e:
                 logging.error(e)
