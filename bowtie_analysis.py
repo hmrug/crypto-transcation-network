@@ -13,6 +13,8 @@ import json
 import argparse
 import logging
 import glob
+from multiprocessing import Process
+import multiprocessing
 
 ################### Logging settings #########################################
 
@@ -91,11 +93,11 @@ def bowtie_analysis(G):
     return result_dict
 
 
-def files_walker(directory, json_output):
-    files = glob.glob(directory)
+def files_walker(files, json_output,directory):
+    #files = glob.glob(directory)
     files.sort()
     for file in files:
-        with open(file, 'r', encoding='utf8', errors='ignore') as f:
+        with open(directory + "/" + file, 'r', encoding='utf8', errors='ignore') as f:
             logging.info("Analysing data from {}".format(file[:-8]))
             G = nx.read_graphml(f)
             bowtie_dict = bowtie_analysis(G)
@@ -132,13 +134,23 @@ def main(directory=None, output=None):
     if directory is None:
         return False
 
+    nr_cores = multiprocessing.cpu_count()
     json_output = output
 
     if not os.path.isfile(json_output):
         with io.open(os.path.join(json_output), 'w') as db_file:
             db_file.write(json.dumps({}))
 
-    files_walker(directory, json_output)
+    core_dict = {}
+    np_files = np.array(os.listdir(directory))
+    chunk_lst = np.array_split(np_files, nr_cores)
+    for i in range(nr_cores):
+        process_name = f"p{i}"
+        file_name = f"test{i}.json"
+        core_dict[process_name] = Process(target=files_walker(list(chunk_lst[i]), file_name, directory))
+
+        core_dict[process_name].start()
+    
     logging.info("BTC bow tie analysis finished")
     return True
 
