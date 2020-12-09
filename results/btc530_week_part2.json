@@ -1,5 +1,5 @@
 {
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-01-05": {
+    "2015-01-05": {
         "nodes": 477949,
         "nodes_s": 9436,
         "nodes_m": 0,
@@ -25,7 +25,7 @@
         "disconnected_s": 1511,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-01-12": {
+    "2015-01-12": {
         "nodes": 521521,
         "nodes_s": 16629,
         "nodes_m": 0,
@@ -51,7 +51,7 @@
         "disconnected_s": 9753,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-01-19": {
+    "2015-01-19": {
         "nodes": 482756,
         "nodes_s": 10270,
         "nodes_m": 0,
@@ -77,7 +77,7 @@
         "disconnected_s": 2101,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-01-26": {
+    "2015-01-26": {
         "nodes": 479617,
         "nodes_s": 7569,
         "nodes_m": 0,
@@ -103,7 +103,7 @@
         "disconnected_s": 1138,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-02-02": {
+    "2015-02-02": {
         "nodes": 457415,
         "nodes_s": 7653,
         "nodes_m": 0,
@@ -129,7 +129,7 @@
         "disconnected_s": 1063,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-02-09": {
+    "2015-02-09": {
         "nodes": 482344,
         "nodes_s": 16288,
         "nodes_m": 0,
@@ -155,7 +155,7 @@
         "disconnected_s": 1890,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-02-16": {
+    "2015-02-16": {
         "nodes": 474156,
         "nodes_s": 17405,
         "nodes_m": 0,
@@ -181,7 +181,7 @@
         "disconnected_s": 2196,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-02-23": {
+    "2015-02-23": {
         "nodes": 474931,
         "nodes_s": 14737,
         "nodes_m": 0,
@@ -207,7 +207,7 @@
         "disconnected_s": 1644,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-03-02": {
+    "2015-03-02": {
         "nodes": 461513,
         "nodes_s": 14125,
         "nodes_m": 0,
@@ -233,7 +233,7 @@
         "disconnected_s": 1970,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-03-09": {
+    "2015-03-09": {
         "nodes": 466366,
         "nodes_s": 13453,
         "nodes_m": 0,
@@ -259,7 +259,7 @@
         "disconnected_s": 1934,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-03-16": {
+    "2015-03-16": {
         "nodes": 476970,
         "nodes_s": 25693,
         "nodes_m": 0,
@@ -285,7 +285,7 @@
         "disconnected_s": 2449,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-03-23": {
+    "2015-03-23": {
         "nodes": 484845,
         "nodes_s": 22520,
         "nodes_m": 0,
@@ -311,7 +311,7 @@
         "disconnected_s": 2151,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-03-30": {
+    "2015-03-30": {
         "nodes": 508374,
         "nodes_s": 23493,
         "nodes_m": 0,
@@ -337,7 +337,7 @@
         "disconnected_s": 2395,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-04-06": {
+    "2015-04-06": {
         "nodes": 508568,
         "nodes_s": 16069,
         "nodes_m": 0,
@@ -363,7 +363,7 @@
         "disconnected_s": 3900,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-04-13": {
+    "2015-04-13": {
         "nodes": 477600,
         "nodes_s": 12033,
         "nodes_m": 0,
@@ -389,7 +389,7 @@
         "disconnected_s": 1611,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-04-20": {
+    "2015-04-20": {
         "nodes": 492422,
         "nodes_s": 13377,
         "nodes_m": 0,
@@ -415,7 +415,7 @@
         "disconnected_s": 1394,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-04-27": {
+    "2015-04-27": {
         "nodes": 485369,
         "nodes_s": 14824,
         "nodes_m": 0,
@@ -441,7 +441,7 @@
         "disconnected_s": 1427,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-05-04": {
+    "2015-05-04": {
         "nodes": 495449,
         "nodes_s": 12464,
         "nodes_m": 0,
@@ -467,7 +467,7 @@
         "disconnected_s": 1628,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-05-11": {
+    "2015-05-11": {
         "nodes": 487096,
         "nodes_s": 11759,
         "nodes_m": 0,
@@ -493,7 +493,7 @@
         "disconnected_s": 1308,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-05-18": {
+    "2015-05-18": {
         "nodes": 479001,
         "nodes_s": 12939,
         "nodes_m": 0,
@@ -519,7 +519,7 @@
         "disconnected_s": 1887,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-05-25": {
+    "2015-05-25": {
         "nodes": 556428,
         "nodes_s": 26347,
         "nodes_m": 0,
@@ -545,7 +545,7 @@
         "disconnected_s": 8134,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-06-01": {
+    "2015-06-01": {
         "nodes": 555652,
         "nodes_s": 14866,
         "nodes_m": 0,
@@ -571,7 +571,7 @@
         "disconnected_s": 1601,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-06-08": {
+    "2015-06-08": {
         "nodes": 584369,
         "nodes_s": 20409,
         "nodes_m": 0,
@@ -597,7 +597,7 @@
         "disconnected_s": 1624,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-06-15": {
+    "2015-06-15": {
         "nodes": 569060,
         "nodes_s": 30741,
         "nodes_m": 0,
@@ -623,7 +623,7 @@
         "disconnected_s": 1738,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-06-22": {
+    "2015-06-22": {
         "nodes": 548334,
         "nodes_s": 15770,
         "nodes_m": 0,
@@ -649,7 +649,7 @@
         "disconnected_s": 4594,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-06-29": {
+    "2015-06-29": {
         "nodes": 651077,
         "nodes_s": 14277,
         "nodes_m": 0,
@@ -675,7 +675,7 @@
         "disconnected_s": 1593,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-07-06": {
+    "2015-07-06": {
         "nodes": 933890,
         "nodes_s": 13777,
         "nodes_m": 0,
@@ -701,7 +701,7 @@
         "disconnected_s": 1655,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-07-13": {
+    "2015-07-13": {
         "nodes": 547684,
         "nodes_s": 17768,
         "nodes_m": 0,
@@ -727,7 +727,7 @@
         "disconnected_s": 1804,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-07-20": {
+    "2015-07-20": {
         "nodes": 596730,
         "nodes_s": 38839,
         "nodes_m": 0,
@@ -753,7 +753,7 @@
         "disconnected_s": 2206,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-07-27": {
+    "2015-07-27": {
         "nodes": 645707,
         "nodes_s": 20351,
         "nodes_m": 0,
@@ -779,7 +779,7 @@
         "disconnected_s": 2884,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-08-03": {
+    "2015-08-03": {
         "nodes": 613523,
         "nodes_s": 18436,
         "nodes_m": 0,
@@ -805,7 +805,7 @@
         "disconnected_s": 2694,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-08-10": {
+    "2015-08-10": {
         "nodes": 565902,
         "nodes_s": 28547,
         "nodes_m": 0,
@@ -831,7 +831,7 @@
         "disconnected_s": 15600,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-08-17": {
+    "2015-08-17": {
         "nodes": 588733,
         "nodes_s": 24734,
         "nodes_m": 0,
@@ -857,7 +857,7 @@
         "disconnected_s": 12171,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-08-24": {
+    "2015-08-24": {
         "nodes": 616215,
         "nodes_s": 27859,
         "nodes_m": 0,
@@ -883,7 +883,7 @@
         "disconnected_s": 14117,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-08-31": {
+    "2015-08-31": {
         "nodes": 672495,
         "nodes_s": 37232,
         "nodes_m": 0,
@@ -909,7 +909,7 @@
         "disconnected_s": 20218,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-09-07": {
+    "2015-09-07": {
         "nodes": 729221,
         "nodes_s": 126033,
         "nodes_m": 0,
@@ -935,7 +935,7 @@
         "disconnected_s": 60708,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-09-14": {
+    "2015-09-14": {
         "nodes": 676759,
         "nodes_s": 57070,
         "nodes_m": 0,
@@ -961,7 +961,7 @@
         "disconnected_s": 7158,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-09-21": {
+    "2015-09-21": {
         "nodes": 691982,
         "nodes_s": 94760,
         "nodes_m": 0,
@@ -987,7 +987,7 @@
         "disconnected_s": 2327,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-09-28": {
+    "2015-09-28": {
         "nodes": 646398,
         "nodes_s": 16795,
         "nodes_m": 0,
@@ -1013,7 +1013,7 @@
         "disconnected_s": 2731,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-10-05": {
+    "2015-10-05": {
         "nodes": 662503,
         "nodes_s": 20011,
         "nodes_m": 0,
@@ -1039,7 +1039,7 @@
         "disconnected_s": 2778,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-10-12": {
+    "2015-10-12": {
         "nodes": 684163,
         "nodes_s": 17315,
         "nodes_m": 0,
@@ -1065,7 +1065,7 @@
         "disconnected_s": 2876,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-10-19": {
+    "2015-10-19": {
         "nodes": 717493,
         "nodes_s": 22626,
         "nodes_m": 0,
@@ -1091,7 +1091,7 @@
         "disconnected_s": 3030,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-10-26": {
+    "2015-10-26": {
         "nodes": 789129,
         "nodes_s": 24021,
         "nodes_m": 0,
@@ -1117,7 +1117,7 @@
         "disconnected_s": 5486,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-11-02": {
+    "2015-11-02": {
         "nodes": 891489,
         "nodes_s": 47197,
         "nodes_m": 0,
@@ -1143,7 +1143,7 @@
         "disconnected_s": 5020,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-11-09": {
+    "2015-11-09": {
         "nodes": 777863,
         "nodes_s": 25975,
         "nodes_m": 0,
@@ -1169,7 +1169,7 @@
         "disconnected_s": 2966,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-11-16": {
+    "2015-11-16": {
         "nodes": 791839,
         "nodes_s": 40369,
         "nodes_m": 0,
@@ -1195,7 +1195,7 @@
         "disconnected_s": 2469,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-11-23": {
+    "2015-11-23": {
         "nodes": 750418,
         "nodes_s": 22031,
         "nodes_m": 0,
@@ -1221,7 +1221,7 @@
         "disconnected_s": 2549,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-11-30": {
+    "2015-11-30": {
         "nodes": 892138,
         "nodes_s": 43114,
         "nodes_m": 0,
@@ -1247,7 +1247,7 @@
         "disconnected_s": 9277,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-12-07": {
+    "2015-12-07": {
         "nodes": 985420,
         "nodes_s": 61502,
         "nodes_m": 0,
@@ -1273,7 +1273,7 @@
         "disconnected_s": 3648,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-12-14": {
+    "2015-12-14": {
         "nodes": 993751,
         "nodes_s": 28960,
         "nodes_m": 0,
@@ -1299,7 +1299,7 @@
         "disconnected_s": 3468,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-12-21": {
+    "2015-12-21": {
         "nodes": 905196,
         "nodes_s": 25216,
         "nodes_m": 0,
@@ -1325,7 +1325,7 @@
         "disconnected_s": 3991,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2015-12-28": {
+    "2015-12-28": {
         "nodes": 759124,
         "nodes_s": 22768,
         "nodes_m": 0,
@@ -1351,7 +1351,7 @@
         "disconnected_s": 3534,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-01-04": {
+    "2016-01-04": {
         "nodes": 867665,
         "nodes_s": 33354,
         "nodes_m": 0,
@@ -1377,7 +1377,7 @@
         "disconnected_s": 4420,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-01-11": {
+    "2016-01-11": {
         "nodes": 951218,
         "nodes_s": 31412,
         "nodes_m": 0,
@@ -1403,7 +1403,7 @@
         "disconnected_s": 3617,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-01-18": {
+    "2016-01-18": {
         "nodes": 1030560,
         "nodes_s": 25122,
         "nodes_m": 0,
@@ -1429,7 +1429,7 @@
         "disconnected_s": 2945,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-01-25": {
+    "2016-01-25": {
         "nodes": 1089156,
         "nodes_s": 31193,
         "nodes_m": 0,
@@ -1455,7 +1455,7 @@
         "disconnected_s": 5148,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-02-01": {
+    "2016-02-01": {
         "nodes": 1091049,
         "nodes_s": 29191,
         "nodes_m": 0,
@@ -1481,7 +1481,7 @@
         "disconnected_s": 3079,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-02-08": {
+    "2016-02-08": {
         "nodes": 1048627,
         "nodes_s": 30375,
         "nodes_m": 0,
@@ -1507,7 +1507,7 @@
         "disconnected_s": 3474,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-02-15": {
+    "2016-02-15": {
         "nodes": 1006822,
         "nodes_s": 30796,
         "nodes_m": 0,
@@ -1533,7 +1533,7 @@
         "disconnected_s": 4334,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-02-22": {
+    "2016-02-22": {
         "nodes": 1049794,
         "nodes_s": 31009,
         "nodes_m": 0,
@@ -1559,7 +1559,7 @@
         "disconnected_s": 2457,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-02-29": {
+    "2016-02-29": {
         "nodes": 1092377,
         "nodes_s": 31890,
         "nodes_m": 0,
@@ -1585,7 +1585,7 @@
         "disconnected_s": 3001,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-03-07": {
+    "2016-03-07": {
         "nodes": 896392,
         "nodes_s": 34599,
         "nodes_m": 0,
@@ -1611,7 +1611,7 @@
         "disconnected_s": 3488,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-03-14": {
+    "2016-03-14": {
         "nodes": 984253,
         "nodes_s": 32174,
         "nodes_m": 0,
@@ -1637,7 +1637,7 @@
         "disconnected_s": 3584,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-03-21": {
+    "2016-03-21": {
         "nodes": 886085,
         "nodes_s": 36251,
         "nodes_m": 0,
@@ -1663,7 +1663,7 @@
         "disconnected_s": 3619,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-03-28": {
+    "2016-03-28": {
         "nodes": 907385,
         "nodes_s": 33368,
         "nodes_m": 0,
@@ -1689,7 +1689,7 @@
         "disconnected_s": 3150,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-04-04": {
+    "2016-04-04": {
         "nodes": 966782,
         "nodes_s": 34298,
         "nodes_m": 0,
@@ -1715,7 +1715,7 @@
         "disconnected_s": 3543,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-04-11": {
+    "2016-04-11": {
         "nodes": 1010294,
         "nodes_s": 30920,
         "nodes_m": 0,
@@ -1741,7 +1741,7 @@
         "disconnected_s": 2163,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-04-18": {
+    "2016-04-18": {
         "nodes": 1000727,
         "nodes_s": 31492,
         "nodes_m": 0,
@@ -1767,7 +1767,7 @@
         "disconnected_s": 6530,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-04-25": {
+    "2016-04-25": {
         "nodes": 1145263,
         "nodes_s": 30780,
         "nodes_m": 0,
@@ -1793,7 +1793,7 @@
         "disconnected_s": 4101,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-05-02": {
+    "2016-05-02": {
         "nodes": 1043480,
         "nodes_s": 31999,
         "nodes_m": 0,
@@ -1819,7 +1819,7 @@
         "disconnected_s": 3328,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-05-09": {
+    "2016-05-09": {
         "nodes": 1075112,
         "nodes_s": 40451,
         "nodes_m": 0,
@@ -1845,7 +1845,7 @@
         "disconnected_s": 7966,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-05-16": {
+    "2016-05-16": {
         "nodes": 1016559,
         "nodes_s": 50637,
         "nodes_m": 0,
@@ -1871,7 +1871,7 @@
         "disconnected_s": 13637,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-05-23": {
+    "2016-05-23": {
         "nodes": 1035710,
         "nodes_s": 41563,
         "nodes_m": 0,
@@ -1897,7 +1897,7 @@
         "disconnected_s": 3923,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-05-30": {
+    "2016-05-30": {
         "nodes": 1055342,
         "nodes_s": 44269,
         "nodes_m": 0,
@@ -1923,7 +1923,7 @@
         "disconnected_s": 4036,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-06-06": {
+    "2016-06-06": {
         "nodes": 1109851,
         "nodes_s": 39753,
         "nodes_m": 0,
@@ -1949,7 +1949,7 @@
         "disconnected_s": 3201,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-06-13": {
+    "2016-06-13": {
         "nodes": 1187241,
         "nodes_s": 43723,
         "nodes_m": 0,
@@ -1975,7 +1975,7 @@
         "disconnected_s": 4182,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-06-20": {
+    "2016-06-20": {
         "nodes": 1126757,
         "nodes_s": 50487,
         "nodes_m": 0,
@@ -2001,7 +2001,7 @@
         "disconnected_s": 2977,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-06-27": {
+    "2016-06-27": {
         "nodes": 1069297,
         "nodes_s": 42822,
         "nodes_m": 0,
@@ -2027,7 +2027,7 @@
         "disconnected_s": 3481,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-07-04": {
+    "2016-07-04": {
         "nodes": 1046422,
         "nodes_s": 49624,
         "nodes_m": 0,
@@ -2053,7 +2053,7 @@
         "disconnected_s": 3882,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-07-11": {
+    "2016-07-11": {
         "nodes": 1004570,
         "nodes_s": 46353,
         "nodes_m": 0,
@@ -2079,7 +2079,7 @@
         "disconnected_s": 4049,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-07-18": {
+    "2016-07-18": {
         "nodes": 997852,
         "nodes_s": 42056,
         "nodes_m": 0,
@@ -2105,7 +2105,7 @@
         "disconnected_s": 3808,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-07-25": {
+    "2016-07-25": {
         "nodes": 1025694,
         "nodes_s": 40727,
         "nodes_m": 0,
@@ -2131,7 +2131,7 @@
         "disconnected_s": 3143,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-08-01": {
+    "2016-08-01": {
         "nodes": 1093382,
         "nodes_s": 42355,
         "nodes_m": 0,
@@ -2157,7 +2157,7 @@
         "disconnected_s": 4820,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-08-08": {
+    "2016-08-08": {
         "nodes": 1115441,
         "nodes_s": 40853,
         "nodes_m": 0,
@@ -2183,7 +2183,7 @@
         "disconnected_s": 3237,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-08-15": {
+    "2016-08-15": {
         "nodes": 1139285,
         "nodes_s": 45525,
         "nodes_m": 0,
@@ -2209,7 +2209,7 @@
         "disconnected_s": 4147,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-08-22": {
+    "2016-08-22": {
         "nodes": 1140187,
         "nodes_s": 47166,
         "nodes_m": 0,
@@ -2235,7 +2235,7 @@
         "disconnected_s": 4044,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-08-29": {
+    "2016-08-29": {
         "nodes": 1139950,
         "nodes_s": 41196,
         "nodes_m": 0,
@@ -2261,7 +2261,7 @@
         "disconnected_s": 3418,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-09-05": {
+    "2016-09-05": {
         "nodes": 1181730,
         "nodes_s": 45537,
         "nodes_m": 0,
@@ -2287,7 +2287,7 @@
         "disconnected_s": 3264,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-09-12": {
+    "2016-09-12": {
         "nodes": 1167470,
         "nodes_s": 40435,
         "nodes_m": 0,
@@ -2313,7 +2313,7 @@
         "disconnected_s": 3170,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-09-19": {
+    "2016-09-19": {
         "nodes": 1193328,
         "nodes_s": 41421,
         "nodes_m": 0,
@@ -2339,7 +2339,7 @@
         "disconnected_s": 3500,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-09-26": {
+    "2016-09-26": {
         "nodes": 1273064,
         "nodes_s": 43666,
         "nodes_m": 0,
@@ -2365,7 +2365,7 @@
         "disconnected_s": 3522,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-10-03": {
+    "2016-10-03": {
         "nodes": 1434680,
         "nodes_s": 59738,
         "nodes_m": 0,
@@ -2391,7 +2391,7 @@
         "disconnected_s": 3811,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-10-10": {
+    "2016-10-10": {
         "nodes": 1307751,
         "nodes_s": 50764,
         "nodes_m": 0,
@@ -2417,7 +2417,7 @@
         "disconnected_s": 5302,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-10-17": {
+    "2016-10-17": {
         "nodes": 1355702,
         "nodes_s": 54061,
         "nodes_m": 0,
@@ -2443,7 +2443,7 @@
         "disconnected_s": 3817,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-10-24": {
+    "2016-10-24": {
         "nodes": 1412212,
         "nodes_s": 60233,
         "nodes_m": 0,
@@ -2469,7 +2469,7 @@
         "disconnected_s": 4842,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-10-31": {
+    "2016-10-31": {
         "nodes": 1468203,
         "nodes_s": 61536,
         "nodes_m": 0,
@@ -2495,7 +2495,7 @@
         "disconnected_s": 4683,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-11-07": {
+    "2016-11-07": {
         "nodes": 1543866,
         "nodes_s": 69971,
         "nodes_m": 0,
@@ -2521,7 +2521,7 @@
         "disconnected_s": 5633,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-11-14": {
+    "2016-11-14": {
         "nodes": 1610416,
         "nodes_s": 74842,
         "nodes_m": 0,
@@ -2547,7 +2547,7 @@
         "disconnected_s": 6005,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-11-21": {
+    "2016-11-21": {
         "nodes": 1710147,
         "nodes_s": 77455,
         "nodes_m": 0,
@@ -2573,7 +2573,7 @@
         "disconnected_s": 5956,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-11-28": {
+    "2016-11-28": {
         "nodes": 1718793,
         "nodes_s": 83744,
         "nodes_m": 0,
@@ -2599,7 +2599,7 @@
         "disconnected_s": 6325,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-12-05": {
+    "2016-12-05": {
         "nodes": 1711331,
         "nodes_s": 91512,
         "nodes_m": 0,
@@ -2625,7 +2625,7 @@
         "disconnected_s": 7116,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-12-12": {
+    "2016-12-12": {
         "nodes": 1655514,
         "nodes_s": 86419,
         "nodes_m": 0,
@@ -2651,7 +2651,7 @@
         "disconnected_s": 8549,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-12-19": {
+    "2016-12-19": {
         "nodes": 1685781,
         "nodes_s": 82456,
         "nodes_m": 0,
@@ -2677,7 +2677,7 @@
         "disconnected_s": 9373,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2016-12-26": {
+    "2016-12-26": {
         "nodes": 1596592,
         "nodes_s": 72478,
         "nodes_m": 0,
@@ -2703,7 +2703,7 @@
         "disconnected_s": 7812,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-01-02": {
+    "2017-01-02": {
         "nodes": 1732969,
         "nodes_s": 83582,
         "nodes_m": 0,
@@ -2729,7 +2729,7 @@
         "disconnected_s": 8360,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-01-09": {
+    "2017-01-09": {
         "nodes": 1608102,
         "nodes_s": 77450,
         "nodes_m": 0,
@@ -2755,7 +2755,7 @@
         "disconnected_s": 7659,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-01-16": {
+    "2017-01-16": {
         "nodes": 1628110,
         "nodes_s": 79056,
         "nodes_m": 0,
@@ -2781,7 +2781,7 @@
         "disconnected_s": 7260,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-01-23": {
+    "2017-01-23": {
         "nodes": 1570453,
         "nodes_s": 75060,
         "nodes_m": 0,
@@ -2807,7 +2807,7 @@
         "disconnected_s": 7084,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-01-30": {
+    "2017-01-30": {
         "nodes": 1714197,
         "nodes_s": 81060,
         "nodes_m": 0,
@@ -2833,7 +2833,7 @@
         "disconnected_s": 7176,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-02-06": {
+    "2017-02-06": {
         "nodes": 1649864,
         "nodes_s": 73606,
         "nodes_m": 0,
@@ -2859,7 +2859,7 @@
         "disconnected_s": 7234,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-02-13": {
+    "2017-02-13": {
         "nodes": 1636012,
         "nodes_s": 73798,
         "nodes_m": 0,
@@ -2885,7 +2885,7 @@
         "disconnected_s": 11267,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-02-20": {
+    "2017-02-20": {
         "nodes": 1689588,
         "nodes_s": 76179,
         "nodes_m": 0,
@@ -2911,7 +2911,7 @@
         "disconnected_s": 9096,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-02-27": {
+    "2017-02-27": {
         "nodes": 1716859,
         "nodes_s": 76620,
         "nodes_m": 0,
@@ -2937,7 +2937,7 @@
         "disconnected_s": 6610,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-03-06": {
+    "2017-03-06": {
         "nodes": 1696259,
         "nodes_s": 75667,
         "nodes_m": 0,
@@ -2963,7 +2963,7 @@
         "disconnected_s": 10253,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-03-13": {
+    "2017-03-13": {
         "nodes": 1654107,
         "nodes_s": 68505,
         "nodes_m": 0,
@@ -2989,7 +2989,7 @@
         "disconnected_s": 7957,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-03-20": {
+    "2017-03-20": {
         "nodes": 1614402,
         "nodes_s": 63175,
         "nodes_m": 0,
@@ -3015,7 +3015,7 @@
         "disconnected_s": 7329,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-03-27": {
+    "2017-03-27": {
         "nodes": 1590763,
         "nodes_s": 56586,
         "nodes_m": 0,
@@ -3041,7 +3041,7 @@
         "disconnected_s": 6120,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-04-03": {
+    "2017-04-03": {
         "nodes": 1642099,
         "nodes_s": 58537,
         "nodes_m": 0,
@@ -3067,7 +3067,7 @@
         "disconnected_s": 6156,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-04-10": {
+    "2017-04-10": {
         "nodes": 1593694,
         "nodes_s": 55499,
         "nodes_m": 0,
@@ -3093,7 +3093,7 @@
         "disconnected_s": 6325,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-04-17": {
+    "2017-04-17": {
         "nodes": 1665628,
         "nodes_s": 55955,
         "nodes_m": 0,
@@ -3119,7 +3119,7 @@
         "disconnected_s": 5842,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-04-24": {
+    "2017-04-24": {
         "nodes": 1786006,
         "nodes_s": 58535,
         "nodes_m": 0,
@@ -3145,7 +3145,7 @@
         "disconnected_s": 6793,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-05-01": {
+    "2017-05-01": {
         "nodes": 1903059,
         "nodes_s": 80997,
         "nodes_m": 0,
@@ -3171,7 +3171,7 @@
         "disconnected_s": 6424,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-05-08": {
+    "2017-05-08": {
         "nodes": 2051183,
         "nodes_s": 100025,
         "nodes_m": 0,
@@ -3197,7 +3197,7 @@
         "disconnected_s": 7798,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-05-15": {
+    "2017-05-15": {
         "nodes": 1928144,
         "nodes_s": 71397,
         "nodes_m": 0,
@@ -3223,7 +3223,7 @@
         "disconnected_s": 7059,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-05-22": {
+    "2017-05-22": {
         "nodes": 2168588,
         "nodes_s": 120468,
         "nodes_m": 0,
@@ -3249,7 +3249,7 @@
         "disconnected_s": 10899,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-05-29": {
+    "2017-05-29": {
         "nodes": 1934482,
         "nodes_s": 109601,
         "nodes_m": 0,
@@ -3275,7 +3275,7 @@
         "disconnected_s": 9415,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-06-05": {
+    "2017-06-05": {
         "nodes": 1838480,
         "nodes_s": 92482,
         "nodes_m": 0,
@@ -3301,7 +3301,7 @@
         "disconnected_s": 12352,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-06-12": {
+    "2017-06-12": {
         "nodes": 1715432,
         "nodes_s": 82560,
         "nodes_m": 0,
@@ -3327,7 +3327,7 @@
         "disconnected_s": 12718,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-06-19": {
+    "2017-06-19": {
         "nodes": 1642533,
         "nodes_s": 104681,
         "nodes_m": 0,
@@ -3353,7 +3353,7 @@
         "disconnected_s": 13128,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-06-26": {
+    "2017-06-26": {
         "nodes": 1580651,
         "nodes_s": 77560,
         "nodes_m": 0,
@@ -3379,7 +3379,7 @@
         "disconnected_s": 10162,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-07-03": {
+    "2017-07-03": {
         "nodes": 1513161,
         "nodes_s": 93901,
         "nodes_m": 0,
@@ -3405,7 +3405,7 @@
         "disconnected_s": 9257,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-07-10": {
+    "2017-07-10": {
         "nodes": 1562434,
         "nodes_s": 90507,
         "nodes_m": 0,
@@ -3431,7 +3431,7 @@
         "disconnected_s": 8348,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-07-17": {
+    "2017-07-17": {
         "nodes": 1518208,
         "nodes_s": 84643,
         "nodes_m": 0,
@@ -3457,7 +3457,7 @@
         "disconnected_s": 9873,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-07-24": {
+    "2017-07-24": {
         "nodes": 1526486,
         "nodes_s": 87912,
         "nodes_m": 0,
@@ -3483,7 +3483,7 @@
         "disconnected_s": 10810,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-07-31": {
+    "2017-07-31": {
         "nodes": 1501460,
         "nodes_s": 105782,
         "nodes_m": 0,
@@ -3509,7 +3509,7 @@
         "disconnected_s": 14034,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-08-07": {
+    "2017-08-07": {
         "nodes": 1785691,
         "nodes_s": 126447,
         "nodes_m": 0,
@@ -3535,7 +3535,7 @@
         "disconnected_s": 33169,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-08-14": {
+    "2017-08-14": {
         "nodes": 1841956,
         "nodes_s": 117134,
         "nodes_m": 0,
@@ -3561,7 +3561,7 @@
         "disconnected_s": 16947,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-08-21": {
+    "2017-08-21": {
         "nodes": 1618639,
         "nodes_s": 91860,
         "nodes_m": 0,
@@ -3587,7 +3587,7 @@
         "disconnected_s": 12042,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-08-28": {
+    "2017-08-28": {
         "nodes": 1739816,
         "nodes_s": 112599,
         "nodes_m": 0,
@@ -3613,7 +3613,7 @@
         "disconnected_s": 15620,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-09-04": {
+    "2017-09-04": {
         "nodes": 1727543,
         "nodes_s": 105427,
         "nodes_m": 0,
@@ -3639,7 +3639,7 @@
         "disconnected_s": 14014,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-09-11": {
+    "2017-09-11": {
         "nodes": 1718421,
         "nodes_s": 112858,
         "nodes_m": 0,
@@ -3665,7 +3665,7 @@
         "disconnected_s": 15485,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-09-18": {
+    "2017-09-18": {
         "nodes": 1593959,
         "nodes_s": 96209,
         "nodes_m": 0,
@@ -3691,7 +3691,7 @@
         "disconnected_s": 12823,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-09-25": {
+    "2017-09-25": {
         "nodes": 1652602,
         "nodes_s": 105147,
         "nodes_m": 0,
@@ -3717,7 +3717,7 @@
         "disconnected_s": 12959,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-10-02": {
+    "2017-10-02": {
         "nodes": 1784373,
         "nodes_s": 128813,
         "nodes_m": 0,
@@ -3743,7 +3743,7 @@
         "disconnected_s": 33448,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-10-09": {
+    "2017-10-09": {
         "nodes": 2009190,
         "nodes_s": 149817,
         "nodes_m": 0,
@@ -3769,7 +3769,7 @@
         "disconnected_s": 18781,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-10-16": {
+    "2017-10-16": {
         "nodes": 2154844,
         "nodes_s": 181720,
         "nodes_m": 0,
@@ -3795,7 +3795,7 @@
         "disconnected_s": 23128,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-10-23": {
+    "2017-10-23": {
         "nodes": 1996662,
         "nodes_s": 137689,
         "nodes_m": 0,
@@ -3821,7 +3821,7 @@
         "disconnected_s": 16970,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-10-30": {
+    "2017-10-30": {
         "nodes": 2168085,
         "nodes_s": 172844,
         "nodes_m": 0,
@@ -3847,7 +3847,7 @@
         "disconnected_s": 18484,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-11-06": {
+    "2017-11-06": {
         "nodes": 1993627,
         "nodes_s": 153880,
         "nodes_m": 0,
@@ -3873,7 +3873,7 @@
         "disconnected_s": 15658,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-11-13": {
+    "2017-11-13": {
         "nodes": 2095301,
         "nodes_s": 168084,
         "nodes_m": 0,
@@ -3899,7 +3899,7 @@
         "disconnected_s": 21469,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-11-20": {
+    "2017-11-20": {
         "nodes": 2345171,
         "nodes_s": 185150,
         "nodes_m": 0,
@@ -3925,7 +3925,7 @@
         "disconnected_s": 23310,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-11-27": {
+    "2017-11-27": {
         "nodes": 2732516,
         "nodes_s": 272236,
         "nodes_m": 0,
@@ -3951,7 +3951,7 @@
         "disconnected_s": 30880,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-12-04": {
+    "2017-12-04": {
         "nodes": 3029078,
         "nodes_s": 346795,
         "nodes_m": 0,
@@ -3977,7 +3977,7 @@
         "disconnected_s": 37559,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-12-11": {
+    "2017-12-11": {
         "nodes": 3112775,
         "nodes_s": 357320,
         "nodes_m": 0,
@@ -4003,7 +4003,7 @@
         "disconnected_s": 38999,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-12-18": {
+    "2017-12-18": {
         "nodes": 2682118,
         "nodes_s": 281827,
         "nodes_m": 0,
@@ -4029,7 +4029,7 @@
         "disconnected_s": 25737,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2017-12-25": {
+    "2017-12-25": {
         "nodes": 2236818,
         "nodes_s": 239747,
         "nodes_m": 0,
@@ -4055,7 +4055,7 @@
         "disconnected_s": 31483,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-01-01": {
+    "2018-01-01": {
         "nodes": 2582915,
         "nodes_s": 251789,
         "nodes_m": 0,
@@ -4081,7 +4081,7 @@
         "disconnected_s": 26834,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-01-08": {
+    "2018-01-08": {
         "nodes": 2305231,
         "nodes_s": 246274,
         "nodes_m": 0,
@@ -4107,7 +4107,7 @@
         "disconnected_s": 23949,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-01-15": {
+    "2018-01-15": {
         "nodes": 2002858,
         "nodes_s": 239772,
         "nodes_m": 0,
@@ -4133,7 +4133,7 @@
         "disconnected_s": 25237,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-01-22": {
+    "2018-01-22": {
         "nodes": 1768006,
         "nodes_s": 290828,
         "nodes_m": 0,
@@ -4159,7 +4159,7 @@
         "disconnected_s": 130504,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-01-29": {
+    "2018-01-29": {
         "nodes": 1612809,
         "nodes_s": 181943,
         "nodes_m": 0,
@@ -4185,7 +4185,7 @@
         "disconnected_s": 22011,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-02-05": {
+    "2018-02-05": {
         "nodes": 1459993,
         "nodes_s": 169775,
         "nodes_m": 0,
@@ -4211,7 +4211,7 @@
         "disconnected_s": 17538,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-02-12": {
+    "2018-02-12": {
         "nodes": 1378670,
         "nodes_s": 161901,
         "nodes_m": 0,
@@ -4237,7 +4237,7 @@
         "disconnected_s": 18907,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-02-19": {
+    "2018-02-19": {
         "nodes": 1369536,
         "nodes_s": 171847,
         "nodes_m": 0,
@@ -4263,7 +4263,7 @@
         "disconnected_s": 20798,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-02-26": {
+    "2018-02-26": {
         "nodes": 1468129,
         "nodes_s": 163080,
         "nodes_m": 0,
@@ -4289,7 +4289,7 @@
         "disconnected_s": 18860,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-03-05": {
+    "2018-03-05": {
         "nodes": 1435939,
         "nodes_s": 166572,
         "nodes_m": 0,
@@ -4315,7 +4315,7 @@
         "disconnected_s": 18200,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-03-12": {
+    "2018-03-12": {
         "nodes": 1374575,
         "nodes_s": 149916,
         "nodes_m": 0,
@@ -4341,7 +4341,7 @@
         "disconnected_s": 16784,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-03-19": {
+    "2018-03-19": {
         "nodes": 1306475,
         "nodes_s": 141508,
         "nodes_m": 0,
@@ -4367,7 +4367,7 @@
         "disconnected_s": 17137,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-03-26": {
+    "2018-03-26": {
         "nodes": 1273035,
         "nodes_s": 132854,
         "nodes_m": 0,
@@ -4393,7 +4393,7 @@
         "disconnected_s": 13603,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-04-02": {
+    "2018-04-02": {
         "nodes": 1287051,
         "nodes_s": 141473,
         "nodes_m": 0,
@@ -4419,7 +4419,7 @@
         "disconnected_s": 14786,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-04-09": {
+    "2018-04-09": {
         "nodes": 1381059,
         "nodes_s": 162699,
         "nodes_m": 0,
@@ -4445,7 +4445,7 @@
         "disconnected_s": 15577,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-04-16": {
+    "2018-04-16": {
         "nodes": 1480147,
         "nodes_s": 198006,
         "nodes_m": 0,
@@ -4471,7 +4471,7 @@
         "disconnected_s": 18101,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-04-23": {
+    "2018-04-23": {
         "nodes": 1562047,
         "nodes_s": 207940,
         "nodes_m": 0,
@@ -4497,7 +4497,7 @@
         "disconnected_s": 21054,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-04-30": {
+    "2018-04-30": {
         "nodes": 1547608,
         "nodes_s": 230000,
         "nodes_m": 0,
@@ -4523,7 +4523,7 @@
         "disconnected_s": 21656,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-05-07": {
+    "2018-05-07": {
         "nodes": 1474996,
         "nodes_s": 211101,
         "nodes_m": 0,
@@ -4549,7 +4549,7 @@
         "disconnected_s": 23103,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-05-14": {
+    "2018-05-14": {
         "nodes": 1445197,
         "nodes_s": 208502,
         "nodes_m": 0,
@@ -4575,7 +4575,7 @@
         "disconnected_s": 21583,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-05-21": {
+    "2018-05-21": {
         "nodes": 1433055,
         "nodes_s": 227461,
         "nodes_m": 0,
@@ -4601,7 +4601,7 @@
         "disconnected_s": 25067,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-05-28": {
+    "2018-05-28": {
         "nodes": 1491872,
         "nodes_s": 265376,
         "nodes_m": 0,
@@ -4627,7 +4627,7 @@
         "disconnected_s": 29181,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-06-04": {
+    "2018-06-04": {
         "nodes": 1506686,
         "nodes_s": 302880,
         "nodes_m": 0,
@@ -4653,7 +4653,7 @@
         "disconnected_s": 32902,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-06-11": {
+    "2018-06-11": {
         "nodes": 1470947,
         "nodes_s": 305512,
         "nodes_m": 0,
@@ -4679,7 +4679,7 @@
         "disconnected_s": 33104,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-06-18": {
+    "2018-06-18": {
         "nodes": 1439357,
         "nodes_s": 350333,
         "nodes_m": 0,
@@ -4705,7 +4705,7 @@
         "disconnected_s": 35793,
         "disconnected_m": 0
     },
-    "hdd_data/btc/NET-btc530k-heur_1-week/2018-06-25": {
+    "2018-06-25": {
         "nodes": 1366149,
         "nodes_s": 453488,
         "nodes_m": 0,
