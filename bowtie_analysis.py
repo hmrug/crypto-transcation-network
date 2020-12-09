@@ -17,6 +17,7 @@ import random
 import multiprocessing
 from multiprocessing import Process, Queue
 from time import time
+import math
 
 def bowtie_analysis(G):
     # reverse all direction of the graph
@@ -142,18 +143,29 @@ def main(directory=None, output=None):
     logging.info('This machine has {} cores which can be used'.format(nr_cores))
     
     files = glob.glob(directory)
-    random.shuffle(files)
- 
+    #random.shuffle(files)
+    files.sort()
+    
     nr_processes = min(len(files),nr_cores)
     logging.info('Run {} jobs'.format(nr_processes))
     
-    bins = np.array_split(files, nr_processes)
+    # devide files in bins for the different processes
+    # early files always get computed fist but distributed evenly among cores
+    rep = math.ceil((len(files)/nr_processes))
+    index = list(range(nr_processes)) * rep
+    index = index[:len(files)]
+    
+    # rolling bins
+    bins =  [[] for _ in range(nr_processes)]
+    for i, file in enumerate(files):
+        idx = index[i]
+        bins[idx].append(file)
     
     jobs = list()
     
     for i in range(nr_processes):
         #process_name = f"Process_{i}"
-        jobs.append(Process(target = files_walker, args=(list(bins[i]), output)))
+        jobs.append(Process(target = files_walker, args=(bins[i], output)))
 
     for i, process in enumerate(jobs):
         process.start()
