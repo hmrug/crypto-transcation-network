@@ -98,8 +98,7 @@ def bowtie_analysis(G):
 
     def component_result(name, graph_nodes):
         return{name: len(graph_nodes),
-               name + "_s": sum([G.nodes()[node]["is_sink"] for node in graph_nodes]),
-               name + "_m": sum([G.nodes()[node]["is_miner"] for node in graph_nodes])}
+               }
 
     result_dict = dict()
     result_dict.update(component_result("nodes", G.nodes()))

@@ -19,6 +19,7 @@ from multiprocessing import Process, Queue
 from time import time
 import math
 
+
 def bowtie_analysis(G):
     # reverse all direction of the graph
     GT = nx.reverse(G, copy=True)
@@ -74,10 +75,11 @@ def bowtie_analysis(G):
     def component_result(name, graph_nodes):
         component_dict = dict()
         for node in graph_nodes:
-            component_dict.update({node : {**G.nodes().get(node), **{'bt_comp': name}}})
+            component_dict.update(
+                {node: {**G.nodes().get(node), **{'bt_comp': name}}})
         return component_dict
-        #return{name : [{node : {**G.nodes().get(node), **{'bt_comp': name}}} for node in graph_nodes]}
-    
+        # return{name : [{node : {**G.nodes().get(node), **{'bt_comp': name}}} for node in graph_nodes]}
+
     result_dict = dict()
     #result_dict.update(component_result("nodes", G.nodes()))
     result_dict.update(component_result("ssc", SSC))
@@ -91,22 +93,21 @@ def bowtie_analysis(G):
     return result_dict
 
 
-
-
 def files_walker(files, output_dir):
-        
+
     for file in files:
         logging.info("Analysing data from {}".format(file[-18:-8]))
         G = nx.read_graphml(file)
         bowtie_dict = bowtie_analysis(G)
 
         try:
-           with io.open(os.path.join(output_dir, file[-18:-8]+".json"), 'w') as json_file:
+            with io.open(os.path.join(output_dir, file[-18:-8]+".json"), 'w') as json_file:
                 json_file.write(json.dumps(bowtie_dict))
-                
-                logging.info("writing bow tie component from {}".format(file[-18:-8]))
+
+                logging.info(
+                    "writing bow tie component from {}".format(file[-18:-8]))
                 logging.info("#" * 80)
-                
+
         except OSError as e:
             logging.error(e)
 
@@ -123,70 +124,73 @@ parser.add_argument(
     help='name of the json output file',
     default="results/output_json")
 
+
 def main(directory=None, output=None):
 
     if directory is None:
         return False
-    
+
     if not os.path.exists(output):
         os.makedirs(output)
-    
+
     start_time = time()
-    
-    logging.basicConfig(filename= os.path.join(output,"logfile.log"),
-                    level=logging.DEBUG, format='%(asctime)s :%(message)s')
-    
+
+    logging.basicConfig(filename=os.path.join(output, "logfile.log"),
+                        level=logging.DEBUG, format='%(asctime)s :%(message)s')
+
     logging.info("Start analysing BTC network")
     logging.info('Start Analysing bow tie structure in {}'.format(directory))
-    
+
     nr_cores = multiprocessing.cpu_count()
-    logging.info('This machine has {} cores which can be used'.format(nr_cores))
-    
+    logging.info(
+        'This machine has {} cores which can be used'.format(nr_cores))
+
     files = glob.glob(directory)
-    #random.shuffle(files)
+    # random.shuffle(files)
     files.sort()
-    
-    nr_processes = min(len(files),nr_cores)
+
+    nr_processes = min(len(files), nr_cores)
     logging.info('Run {} jobs'.format(nr_processes))
-    
+
     # devide files in bins for the different processes
     # early files always get computed fist but distributed evenly among cores
     rep = math.ceil((len(files)/nr_processes))
     index = list(range(nr_processes)) * rep
     index = index[:len(files)]
-    
+
     # rolling bins
-    bins =  [[] for _ in range(nr_processes)]
+    bins = [[] for _ in range(nr_processes)]
     for i, file in enumerate(files):
         idx = index[i]
         bins[idx].append(file)
-    
+
     jobs = list()
-    
+
     for i in range(nr_processes):
         #process_name = f"Process_{i}"
-        jobs.append(Process(target = files_walker, args=(bins[i], output)))
+        jobs.append(Process(target=files_walker, args=(bins[i], output)))
 
     for i, process in enumerate(jobs):
         process.start()
         logging.info("started process_{}".format(i+1))
-    
+
     for process in jobs:
         process.join()
-       
+
     end_time = time()
     seconds_elapsed = end_time - start_time
     hours, rest = divmod(seconds_elapsed, 3600)
     minutes, seconds = divmod(rest, 60)
-    
+
     logging.info("BTC bow tie analysis finished after {} hours {} minutes and {} seconds"
-                 .format(hours,minutes, int(seconds) ))
+                 .format(hours, minutes, int(seconds)))
     return True
 
 # directory = 'data/NET-btc-heur_0-week/201[0-1]*'
 # output = 'results/bow_tie_output_new'
 # main(directory,output)
 # python bowtie_analysis.py "data/NET-btc-heur_0-week/201[0-1]*" -o "results/bow_tie_json_output"
+
 
 if __name__ == "__main__":
     args = parser.parse_args()
