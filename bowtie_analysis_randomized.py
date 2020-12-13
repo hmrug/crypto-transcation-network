@@ -21,16 +21,43 @@ from time import time
 import warnings
 warnings.filterwarnings("ignore")
 
+# helper function
+
+
+def degree_lst(degree_dict):
+    arr = []
+    for key, value in degree_dict.items():
+        if (value != 0):
+            arr.append((key))
+    return arr
+
+# permute edges while fixing in and out degree and direction
+
 
 def randomize(g):
-    graph = g.copy()
-    undirected_graph = graph.to_undirected()
-    nswap = len(undirected_graph.edges())/2
-    max_tries = 100*len(undirected_graph.edges())
-    seed = np.random.seed()
-    nx.algorithms.swap.double_edge_swap(
-        undirected_graph, nswap=nswap, seed=seed, max_tries=max_tries)
-    return undirected_graph.to_directed()
+    newg = g.copy()
+    # delete all edges
+    newg.clear_edges()
+    # calculate in and out degree dist
+    inDeg = dict(g.in_degree())
+    outDeg = dict(g.out_degree())
+    # get keys form in and out dict
+    inDeglst = degree_lst(inDeg)
+    outDeglst = degree_lst(outDeg)
+    # loop as long as there are no free degrees
+    while len(inDeglst) > 0:
+        # choose random node drom available degrees
+        u = random.choice(outDeglst)
+        v = random.choice(inDeglst)
+        # create edge
+        newg.add_edge(u, v)
+        # update in and out dict
+        outDeg[u] -= 1
+        inDeg[v] -= 1
+        # update in and out degree lists
+        inDeglst = degree_lst(inDeg)
+        outDeglst = degree_lst(outDeg)
+    return newg
 
 
 def get_further_stats(G):
