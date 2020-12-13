@@ -62,9 +62,9 @@ if __name__ == "__main__":
     start_time = time()
     logging.info("Start combining json files")
 
-    files = os.listdir("/mnt/smbshares/lkunam/btc530k-heur-basic_stats12_15")
+    files = os.listdir("/mnt/smbshares/lkunam/btc530k-heur-basic_stats")
     # print(files)
-    directory = "/mnt/smbshares/lkunam/btc530k-heur-basic_stats12_15"
+    directory = "/mnt/smbshares/lkunam/btc530k-heur-basic_stats"
     # print(directory)
 
     files_walker(files, "btc_stats.json", directory)
