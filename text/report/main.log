@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.7)  12 DEC 2020 01:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.7)  13 DEC 2020 02:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -253,6 +253,26 @@ File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
 \tempdime=\dimen154
 \temptbox=\box56
 )
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen155
+\lightrulewidth=\dimen156
+\cmidrulewidth=\dimen157
+\belowrulesep=\dimen158
+\belowbottomsep=\dimen159
+\aboverulesep=\dimen160
+\abovetopsep=\dimen161
+\cmidrulesep=\dimen162
+\cmidrulekern=\dimen163
+\defaultaddspace=\dimen164
+\@cmidla=\count199
+\@cmidlb=\count266
+\@aboverulesep=\dimen165
+\@belowrulesep=\dimen166
+\@thisruleclass=\count267
+\@lastruleclass=\count268
+\@thisrulewidth=\dimen167
+)
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 
@@ -281,7 +301,7 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count199
+\lrq@indent=\count269
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -293,47 +313,47 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count266
-\c@listtotal=\count267
-\c@listcount=\count268
-\c@liststart=\count269
-\c@liststop=\count270
-\c@citecount=\count271
-\c@citetotal=\count272
-\c@multicitecount=\count273
-\c@multicitetotal=\count274
-\c@instcount=\count275
-\c@maxnames=\count276
-\c@minnames=\count277
-\c@maxitems=\count278
-\c@minitems=\count279
-\c@citecounter=\count280
-\c@maxcitecounter=\count281
-\c@savedcitecounter=\count282
-\c@uniquelist=\count283
-\c@uniquename=\count284
-\c@refsection=\count285
-\c@refsegment=\count286
-\c@maxextratitle=\count287
-\c@maxextratitleyear=\count288
-\c@maxextraname=\count289
-\c@maxextradate=\count290
-\c@maxextraalpha=\count291
-\c@abbrvpenalty=\count292
-\c@highnamepenalty=\count293
-\c@lownamepenalty=\count294
-\c@maxparens=\count295
-\c@parenlevel=\count296
-\blx@tempcnta=\count297
-\blx@tempcntb=\count298
-\blx@tempcntc=\count299
-\blx@maxsection=\count300
-\blx@maxsegment@0=\count301
-\blx@notetype=\count302
-\blx@parenlevel@text=\count303
-\blx@parenlevel@foot=\count304
-\blx@sectionciteorder@0=\count305
-\blx@entrysetcounter=\count306
+\c@tabx@nest=\count270
+\c@listtotal=\count271
+\c@listcount=\count272
+\c@liststart=\count273
+\c@liststop=\count274
+\c@citecount=\count275
+\c@citetotal=\count276
+\c@multicitecount=\count277
+\c@multicitetotal=\count278
+\c@instcount=\count279
+\c@maxnames=\count280
+\c@minnames=\count281
+\c@maxitems=\count282
+\c@minitems=\count283
+\c@citecounter=\count284
+\c@maxcitecounter=\count285
+\c@savedcitecounter=\count286
+\c@uniquelist=\count287
+\c@uniquename=\count288
+\c@refsection=\count289
+\c@refsegment=\count290
+\c@maxextratitle=\count291
+\c@maxextratitleyear=\count292
+\c@maxextraname=\count293
+\c@maxextradate=\count294
+\c@maxextraalpha=\count295
+\c@abbrvpenalty=\count296
+\c@highnamepenalty=\count297
+\c@lownamepenalty=\count298
+\c@maxparens=\count299
+\c@parenlevel=\count300
+\blx@tempcnta=\count301
+\blx@tempcntb=\count302
+\blx@tempcntc=\count303
+\blx@maxsection=\count304
+\blx@maxsegment@0=\count305
+\blx@notetype=\count306
+\blx@parenlevel@text=\count307
+\blx@parenlevel@foot=\count308
+\blx@sectionciteorder@0=\count309
+\blx@entrysetcounter=\count310
 \labelnumberwidth=\skip63
 \labelalphawidth=\skip64
 \biblabelsep=\skip65
@@ -345,9 +365,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language85
-\c@mincomprange=\count307
-\c@maxcomprange=\count308
-\c@mincompwidth=\count309
+\c@mincomprange=\count311
+\c@maxcomprange=\count312
+\c@mincompwidth=\count313
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -358,74 +378,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count310
-\c@savedafterword=\count311
-\c@annotator=\count312
-\c@savedannotator=\count313
-\c@author=\count314
-\c@savedauthor=\count315
-\c@bookauthor=\count316
-\c@savedbookauthor=\count317
-\c@commentator=\count318
-\c@savedcommentator=\count319
-\c@editor=\count320
-\c@savededitor=\count321
-\c@editora=\count322
-\c@savededitora=\count323
-\c@editorb=\count324
-\c@savededitorb=\count325
-\c@editorc=\count326
-\c@savededitorc=\count327
-\c@foreword=\count328
-\c@savedforeword=\count329
-\c@holder=\count330
-\c@savedholder=\count331
-\c@introduction=\count332
-\c@savedintroduction=\count333
-\c@namea=\count334
-\c@savednamea=\count335
-\c@nameb=\count336
-\c@savednameb=\count337
-\c@namec=\count338
-\c@savednamec=\count339
-\c@translator=\count340
-\c@savedtranslator=\count341
-\c@shortauthor=\count342
-\c@savedshortauthor=\count343
-\c@shorteditor=\count344
-\c@savedshorteditor=\count345
-\c@labelname=\count346
-\c@savedlabelname=\count347
-\c@institution=\count348
-\c@savedinstitution=\count349
-\c@lista=\count350
-\c@savedlista=\count351
-\c@listb=\count352
-\c@savedlistb=\count353
-\c@listc=\count354
-\c@savedlistc=\count355
-\c@listd=\count356
-\c@savedlistd=\count357
-\c@liste=\count358
-\c@savedliste=\count359
-\c@listf=\count360
-\c@savedlistf=\count361
-\c@location=\count362
-\c@savedlocation=\count363
-\c@organization=\count364
-\c@savedorganization=\count365
-\c@origlocation=\count366
-\c@savedoriglocation=\count367
-\c@origpublisher=\count368
-\c@savedorigpublisher=\count369
-\c@publisher=\count370
-\c@savedpublisher=\count371
-\c@language=\count372
-\c@savedlanguage=\count373
-\c@origlanguage=\count374
-\c@savedoriglanguage=\count375
-\c@pageref=\count376
-\c@savedpageref=\count377
+\c@afterword=\count314
+\c@savedafterword=\count315
+\c@annotator=\count316
+\c@savedannotator=\count317
+\c@author=\count318
+\c@savedauthor=\count319
+\c@bookauthor=\count320
+\c@savedbookauthor=\count321
+\c@commentator=\count322
+\c@savedcommentator=\count323
+\c@editor=\count324
+\c@savededitor=\count325
+\c@editora=\count326
+\c@savededitora=\count327
+\c@editorb=\count328
+\c@savededitorb=\count329
+\c@editorc=\count330
+\c@savededitorc=\count331
+\c@foreword=\count332
+\c@savedforeword=\count333
+\c@holder=\count334
+\c@savedholder=\count335
+\c@introduction=\count336
+\c@savedintroduction=\count337
+\c@namea=\count338
+\c@savednamea=\count339
+\c@nameb=\count340
+\c@savednameb=\count341
+\c@namec=\count342
+\c@savednamec=\count343
+\c@translator=\count344
+\c@savedtranslator=\count345
+\c@shortauthor=\count346
+\c@savedshortauthor=\count347
+\c@shorteditor=\count348
+\c@savedshorteditor=\count349
+\c@labelname=\count350
+\c@savedlabelname=\count351
+\c@institution=\count352
+\c@savedinstitution=\count353
+\c@lista=\count354
+\c@savedlista=\count355
+\c@listb=\count356
+\c@savedlistb=\count357
+\c@listc=\count358
+\c@savedlistc=\count359
+\c@listd=\count360
+\c@savedlistd=\count361
+\c@liste=\count362
+\c@savedliste=\count363
+\c@listf=\count364
+\c@savedlistf=\count365
+\c@location=\count366
+\c@savedlocation=\count367
+\c@organization=\count368
+\c@savedorganization=\count369
+\c@origlocation=\count370
+\c@savedoriglocation=\count371
+\c@origpublisher=\count372
+\c@savedorigpublisher=\count373
+\c@publisher=\count374
+\c@savedpublisher=\count375
+\c@language=\count376
+\c@savedlanguage=\count377
+\c@origlanguage=\count378
+\c@savedoriglanguage=\count379
+\c@pageref=\count380
+\c@savedpageref=\count381
 \shorthandwidth=\skip71
 \shortjournalwidth=\skip72
 \shortserieswidth=\skip73
@@ -451,19 +471,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
-\c@textcitecount=\count378
-\c@textcitetotal=\count379
-\c@textcitemaxnames=\count380
-\c@biburlbigbreakpenalty=\count381
-\c@biburlbreakpenalty=\count382
-\c@biburlnumpenalty=\count383
-\c@biburlucpenalty=\count384
-\c@biburllcpenalty=\count385
+\c@textcitecount=\count382
+\c@textcitetotal=\count383
+\c@textcitemaxnames=\count384
+\c@biburlbigbreakpenalty=\count385
+\c@biburlbreakpenalty=\count386
+\c@biburlnumpenalty=\count387
+\c@biburlucpenalty=\count388
+\c@biburllcpenalty=\count389
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count386
+\c@smartand=\count390
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
@@ -475,8 +495,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count387
-\c@bbx:relatedtotal=\count388
+\c@bbx:relatedcount=\count391
+\c@bbx:relatedtotal=\count392
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -497,43 +517,43 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
-\@quotelevel=\count389
-\@quotereset=\count390
+\@quotelevel=\count393
+\@quotereset=\count394
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 2
-0.
+4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count391
-\scratchdimen=\dimen155
+\scratchcounter=\count395
+\scratchdimen=\dimen168
 \scratchbox=\box57
-\nofMPsegments=\count392
-\nofMParguments=\count393
+\nofMPsegments=\count396
+\nofMParguments=\count397
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count394
-\MPscratchDim=\dimen156
-\MPnumerator=\count395
-\makeMPintoPDFobject=\count396
+\MPscratchCnt=\count398
+\MPscratchDim=\dimen169
+\MPnumerator=\count399
+\makeMPintoPDFobject=\count400
 \everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -555,9 +575,9 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package crop Info: requested driver: `' on input line 20.
-Package crop Info: detected driver: `pdftex' on input line 20.
-Package crop Info: using `pdftex' graphics driver on input line 20.
+Package crop Info: requested driver: `' on input line 24.
+Package crop Info: detected driver: `pdftex' on input line 24.
+Package crop Info: using `pdftex' graphics driver on input line 24.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
@@ -572,72 +592,72 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 20.
-Package biblatex Info: Reference segment=0 on input line 20.
+Package biblatex Info: Reference section=0 on input line 24.
+Package biblatex Info: Reference segment=0 on input line 24.
 <Resources/uzh_logo_d_pos.pdf, id=1, 142.5325pt x 49.18375pt>
 File: Resources/uzh_logo_d_pos.pdf Graphic file (type pdf)
 <use Resources/uzh_logo_d_pos.pdf>
-Package pdftex.def Info: Resources/uzh_logo_d_pos.pdf  used on input line 29.
+Package pdftex.def Info: Resources/uzh_logo_d_pos.pdf  used on input line 33.
 (pdftex.def)             Requested size: 199.16928pt x 68.72766pt.
 
-Overfull \hbox (51.56778pt too wide) in paragraph at lines 29--29
+Overfull \hbox (51.56778pt too wide) in paragraph at lines 33--33
 []  
  []
 
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 29.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 2
-9.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 33.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+3.
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-9.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+3.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-29.
+33.
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-29.
+33.
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <11> on input line 29.
+(Font)              <11> on input line 33.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7.69997> on input line 29.
+(Font)              <7.69997> on input line 33.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5.5> on input line 29.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+(Font)              <5.5> on input line 33.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+phv on input line 2
-9.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 3
+3.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
-Overfull \hbox (10.62584pt too wide) in paragraph at lines 29--29
+Overfull \hbox (10.62584pt too wide) in paragraph at lines 33--33
 []$[]$ $[]$ 
  []
 
 
-Overfull \hbox (0.62584pt too wide) in paragraph at lines 29--29
+Overfull \hbox (0.62584pt too wide) in paragraph at lines 33--33
 []|  [] 
  []
 
@@ -648,8 +668,8 @@ Overfull \hbox (0.62584pt too wide) in paragraph at lines 29--29
 <Resources/bowtie.png, id=14, 1420.30624pt x 1062.97125pt>
 File: Resources/bowtie.png Graphic file (type png)
 <use Resources/bowtie.png>
-Package pdftex.def Info: Resources/bowtie.png  used on input line 54.
-(pdftex.def)             Requested size: 492.0pt x 368.21768pt.
+Package pdftex.def Info: Resources/bowtie.png  used on input line 57.
+(pdftex.def)             Requested size: 369.0pt x 276.15515pt.
 
 Overfull \hbox (121.80244pt too wide) has occurred while \output is active
 |\OT1/phv/b/n/8 Huang Chuanshan (Matriculation Number), Kunam Lutharsanen (Matr
@@ -661,8 +681,101 @@ lation Number)
 Overfull \vbox (1.0pt too high) has occurred while \output is active []
 
  [2 <./Resources/bowtie.png (PNG copy)>]
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 7
-5.
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \hbox (121.80244pt too wide) has occurred while \output is active
+|\OT1/phv/b/n/8 Huang Chuanshan (Matriculation Number), Kunam Lutharsanen (Matr
+iculation Number), Leupp Jo[]el (Matriculation Number), Mrugala Hubert (Matricu
+lation Number) 
+ []
+
+
+Overfull \vbox (1.0pt too high) has occurred while \output is active []
+
+ [3]
+Overfull \hbox (121.80244pt too wide) has occurred while \output is active
+|\OT1/phv/b/n/8 Huang Chuanshan (Matriculation Number), Kunam Lutharsanen (Matr
+iculation Number), Leupp Jo[]el (Matriculation Number), Mrugala Hubert (Matricu
+lation Number) 
+ []
+
+
+Overfull \vbox (1.0pt too high) has occurred while \output is active []
+
+ [4]
+<Resources/bowtie_relative.png, id=25, 913.4125pt x 381.425pt>
+File: Resources/bowtie_relative.png Graphic file (type png)
+<use Resources/bowtie_relative.png>
+Package pdftex.def Info: Resources/bowtie_relative.png  used on input line 131.
+
+(pdftex.def)             Requested size: 442.797pt x 184.9036pt.
+<Resources/Network_basic_prop_overtime.png, id=27, 1078.9911pt x 855.6768pt>
+File: Resources/Network_basic_prop_overtime.png Graphic file (type png)
+<use Resources/Network_basic_prop_overtime.png>
+Package pdftex.def Info: Resources/Network_basic_prop_overtime.png  used on inp
+ut line 139.
+(pdftex.def)             Requested size: 442.797pt x 351.15617pt.
+<Resources/matrix.png, id=28, 665.48625pt x 237.13594pt>
+File: Resources/matrix.png Graphic file (type png)
+<use Resources/matrix.png>
+Package pdftex.def Info: Resources/matrix.png  used on input line 151.
+(pdftex.def)             Requested size: 369.0pt x 131.48897pt.
+<Resources/MC.png, id=29, 900.36375pt x 379.4175pt>
+File: Resources/MC.png Graphic file (type png)
+<use Resources/MC.png>
+Package pdftex.def Info: Resources/MC.png  used on input line 159.
+(pdftex.def)             Requested size: 442.797pt x 186.59935pt.
+<Resources/MC_SCC.png, id=30, 819.06pt x 378.41376pt>
+File: Resources/MC_SCC.png Graphic file (type png)
+<use Resources/MC_SCC.png>
+Package pdftex.def Info: Resources/MC_SCC.png  used on input line 167.
+(pdftex.def)             Requested size: 442.797pt x 204.58289pt.
+
+Overfull \hbox (121.80244pt too wide) has occurred while \output is active
+|\OT1/phv/b/n/8 Huang Chuanshan (Matriculation Number), Kunam Lutharsanen (Matr
+iculation Number), Leupp Jo[]el (Matriculation Number), Mrugala Hubert (Matricu
+lation Number) 
+ []
+
+
+Overfull \vbox (1.0pt too high) has occurred while \output is active []
+
+ [5 <./Resources/bowtie_relative.png>]
+<Resources/Ratio.png, id=35, 727.71875pt x 382.42876pt>
+File: Resources/Ratio.png Graphic file (type png)
+<use Resources/Ratio.png>
+Package pdftex.def Info: Resources/Ratio.png  used on input line 175.
+(pdftex.def)             Requested size: 442.797pt x 232.70349pt.
+
+Overfull \hbox (121.80244pt too wide) has occurred while \output is active
+|\OT1/phv/b/n/8 Huang Chuanshan (Matriculation Number), Kunam Lutharsanen (Matr
+iculation Number), Leupp Jo[]el (Matriculation Number), Mrugala Hubert (Matricu
+lation Number) 
+ []
+
+
+Overfull \vbox (1.0pt too high) has occurred while \output is active []
+
+ [6 <./Resources/Network_basic_prop_overtime.png> <./Resources/matrix.png (PNG 
+copy)>]
+Overfull \hbox (121.80244pt too wide) has occurred while \output is active
+|\OT1/phv/b/n/8 Huang Chuanshan (Matriculation Number), Kunam Lutharsanen (Matr
+iculation Number), Leupp Jo[]el (Matriculation Number), Mrugala Hubert (Matricu
+lation Number) 
+ []
+
+
+Overfull \vbox (1.0pt too high) has occurred while \output is active []
+
+ [7 <./Resources/MC.png> <./Resources/MC_SCC.png>]
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
+87.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -676,30 +789,29 @@ lation Number)
 
 Overfull \vbox (1.0pt too high) has occurred while \output is active []
 
- [3]
-(./main.aux)
+ [8 <./Resources/Ratio.png>] (./main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11182 strings out of 481239
- 201797 string characters out of 5920377
- 918737 words of memory out of 5000000
- 26266 multiletter control sequences out of 15000+600000
+ 11273 strings out of 481239
+ 203471 string characters out of 5920377
+ 919435 words of memory out of 5000000
+ 26348 multiletter control sequences out of 15000+600000
  571432 words of font info for 76 fonts, out of 8000000 for 9000
  1145 hyphenation exceptions out of 8191
- 43i,8n,56p,1142b,2229s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,8n,56p,1142b,2243s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/ut
 mb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 287110 bytes).
+Output written on main.pdf (8 pages, 688013 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
