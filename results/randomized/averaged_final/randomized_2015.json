@@ -1,0 +1,26 @@
+{
+    "bowtie": {
+        "nodes": 63238.0,
+        "ssc": 10892.0,
+        "in": 18492.0,
+        "out": 16940.0,
+        "tubes": 592.0,
+        "tendrils": 11188.0,
+        "fringe": 934.0,
+        "disconnected": 4200.0,
+        "clustering": 0.032228096028120004,
+        "assortativity": -0.106500099322354
+    },
+    "bowtie_random": {
+        "nodes": 63238.0,
+        "ssc": 4827.8,
+        "in": 8972.4,
+        "out": 17582.4,
+        "tubes": 3058.8,
+        "tendrils": 16467.4,
+        "fringe": 4694.8,
+        "disconnected": 7634.4,
+        "clustering": 0.00047489660207500003,
+        "assortativity": 0.7632335387148504
+    }
+}
