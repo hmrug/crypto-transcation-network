@@ -47,5 +47,40 @@ https://github.com/lutharsanen/crypto-transcation-network/blob/master/BowTie-Bit
 Since it is interactive in order to run it you have to pull the repository and run all cells. All the needed files are in the result folder. 
 Make sure to have the newest version of pandas and plotly installed otherwise it will not work.
 
+## Set up
 
+To be able to run the visualisation notebook namely BowTie-Bitcoin Visualization.ipynb you need to have installed the following packages:
 
+- matplotlib
+- seaborn
+- numpy
+- plotly
+- ipywidgets 
+
+To be able to run the python scripts you need:
+
+- networkx
+- numpy
+- json
+- logging
+- random
+- multiprocessing
+- time 
+- math 
+- scipy
+- glob
+- argparse
+- pandas
+
+to be able to run all the different python scripts for analyzing
+
+## Which python script was used for which purpose?
+
+- bitcoin_basic_stats.py: get basic stats from datasets
+- bowtie_analysis_randomize: randomize and get bowtie-structure of the randomized component datasets
+- bowtie_analysis: computes bowtie structure from datasets
+- bt_visualize: computes json for bowtie visualisations
+- btc_stats_summary: combines all single basic stats file to one json file for the visualisation notebook
+- degree_dist.py: computes degree distribution of datasets
+- markov.py: gets markov transition matrix from dataset
+- markov_statistics.py: computes transistion statistics from transition matrix
