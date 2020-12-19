@@ -84,3 +84,4 @@ to be able to run all the different python scripts for analyzing
 - degree_dist.py: computes degree distribution of datasets
 - markov.py: gets markov transition matrix from dataset
 - markov_statistics.py: computes transistion statistics from transition matrix
+- the folder results stores all the json files which were generated with those python scripts on the server 
