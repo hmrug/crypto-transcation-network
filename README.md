@@ -36,7 +36,7 @@ With the same logic you can run the script markov_statistics to combine all the 
 
 The two final json with the results from the bow-tie analysis and the markov chain is found in the folder:
 
-/crypto-transcation-network/tree/master/results/NET-btc530k-heur_1-day
+/crypto-transcation-network/tree/master/results/bowtieANDmarkov
 
 ## Visualisation
 
